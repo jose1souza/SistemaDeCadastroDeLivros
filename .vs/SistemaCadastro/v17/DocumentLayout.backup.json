@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\sistemacadastro\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\sistemacadastro\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\sistemacadastro\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\zexni\\onedrive\\\u00E1rea de trabalho\\tentandoconcertar\\sistemacadastrodelivros\\sistemacadastro\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\sistemacadastro\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\sistemacadastro\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\sistemacadastro\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +38,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Livros.cs",
               "DocumentMoniker": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\SistemaCadastro\\Livros.cs",
               "RelativeDocumentMoniker": "SistemaCadastro\\Livros.cs",
@@ -52,10 +56,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T17:04:53.945Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Biblioteca.cs",
               "DocumentMoniker": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\SistemaCadastro\\Biblioteca.cs",
               "RelativeDocumentMoniker": "SistemaCadastro\\Biblioteca.cs",
@@ -111,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Usuario.cs [Design]",
               "DocumentMoniker": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\SistemaCadastro\\Usuario.cs",
               "RelativeDocumentMoniker": "SistemaCadastro\\Usuario.cs",
@@ -123,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Sistema.cs [Design]",
               "DocumentMoniker": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\SistemaCadastro\\Sistema.cs",
               "RelativeDocumentMoniker": "SistemaCadastro\\Sistema.cs",
