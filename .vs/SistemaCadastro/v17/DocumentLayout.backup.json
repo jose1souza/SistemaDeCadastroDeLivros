@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\sistemacadastro\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\sistemacadastro\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\sistemacadastro\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\zexni\\onedrive\\\u00E1rea de trabalho\\tentandoconcertar\\sistemacadastrodelivros\\sistemacadastro\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\sistemacadastro\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\sistemacadastro\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\sistemacadastro\\conectabanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\conectabanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livros.cs",
+              "DocumentMoniker": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\SistemaCadastro\\Livros.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Livros.cs",
+              "ToolTip": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\SistemaCadastro\\Livros.cs",
+              "RelativeToolTip": "SistemaCadastro\\Livros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:04:53.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\SistemaCadastro\\Sistema.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Sistema.cs",
+              "ToolTip": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\SistemaCadastro\\Sistema.cs",
+              "RelativeToolTip": "SistemaCadastro\\Sistema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:30:26.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\SistemaCadastro\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Usuario.cs",
+              "ToolTip": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\SistemaCadastro\\Usuario.cs",
+              "RelativeToolTip": "SistemaCadastro\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:58:40.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConectaBanco.cs",
+              "DocumentMoniker": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\SistemaCadastro\\ConectaBanco.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\ConectaBanco.cs",
+              "ToolTip": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\SistemaCadastro\\ConectaBanco.cs",
+              "RelativeToolTip": "SistemaCadastro\\ConectaBanco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T09:17:06.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\SistemaCadastro\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Biblioteca.cs",
+              "ToolTip": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\SistemaCadastro\\Biblioteca.cs",
+              "RelativeToolTip": "SistemaCadastro\\Biblioteca.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T22:29:37.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\SistemaCadastro\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Usuario.cs",
+              "ToolTip": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\SistemaCadastro\\Usuario.cs [Design]",
+              "RelativeToolTip": "SistemaCadastro\\Usuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:49:36.91Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sistema.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\SistemaCadastro\\Sistema.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Sistema.cs",
+              "ToolTip": "C:\\Users\\zexni\\OneDrive\\\u00C1rea de Trabalho\\tentandoConcertar\\SistemaCadastroDeLivros\\SistemaCadastro\\Sistema.cs [Design]",
+              "RelativeToolTip": "SistemaCadastro\\Sistema.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T23:22:04.718Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
