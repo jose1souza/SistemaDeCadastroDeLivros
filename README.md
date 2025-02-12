@@ -19,20 +19,22 @@ Banco de Dados: MySQL
 
 # Estrutura do Projeto
 
+## Login
 Ao executar o projeto a pri eira tela que aparece é a tela de login. Onde o usuário tem que colocar um nome de e senha  já pré-definidos no sistema (nesse caso o user é adm e a senha é 123).
 
 ![Login](https://github.com/user-attachments/assets/de05bf00-75e5-4bb0-8403-10028b1f7ed2)
 
-
+## Cadastro de novos Livros
 O programa se inicia nessa tela após o usuário fazer o login. Nessa área o editor consegue colocar os dados relacionados ao livro que deseja inserir no sistema.
 
 ![Cadastrar](https://github.com/user-attachments/assets/2e21b77b-c6a4-454f-ad54-d520e43bea21)
 
-
+## Buscar e Remover Livros
 Nesta tela, você pode visualizar todos os livros cadastrados pelo usuário. Ela permite a busca pelo título da obra desejada e, após selecionar o título que deseja excluir na tabela, você pode clicar no botão "Excluir" para removê-lo completamente do sistema.
 
 ![Buscar](https://github.com/user-attachments/assets/434e6a72-7fd2-4fba-8729-7e9020932fd2)
 
+## Adicionar Autor
 Tela para adicionar autores. Basta adicionar o nome do autor no campo indicado e cadastrar.
 
 ![Add_Autor](https://github.com/user-attachments/assets/05b4751f-2476-4dee-b0c2-5753b328b2ca)
